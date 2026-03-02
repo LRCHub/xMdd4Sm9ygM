@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "ばかみたい (AKKO Special Edition)",
+  "base_artist": "アッコさん(和田アキ子)、SEGA GAME MUSIC",
+  "createdAt": "2026-03-02T13:33:09.091433Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ばかみたい",
+      "artist": "冴島大河(小山力也) feat. 秋山駿(山寺宏一), 冴島 & 秋山",
+      "has_synced": true,
+      "path": "select/01_ばかみたい_冴島大河(小山力也)_feat._秋山駿(山寺宏一),_冴島_&_秋山.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ばかみたい",
+      "artist": "小山力也 & 山寺宏一 feat. 冴島 大河 & 秋山 駿",
+      "has_synced": true,
+      "path": "select/02_ばかみたい_小山力也_&_山寺宏一_feat._冴島_大河_&_秋山_駿.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ばかみたい",
+      "artist": "冴島大河(小山力也), 秋山駿(山寺宏一), 冴島大河, 秋山駿",
+      "has_synced": true,
+      "path": "select/03_ばかみたい_冴島大河(小山力也),_秋山駿(山寺宏一),_冴島大河,_秋山駿.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ばかみたい",
+      "artist": "冴島大河(小山力也)",
+      "has_synced": true,
+      "path": "select/04_ばかみたい_冴島大河(小山力也).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ばかみたい",
+      "artist": "冴島大河(小山力也)/秋山駿(山寺宏一)",
+      "has_synced": true,
+      "path": "select/05_ばかみたい_冴島大河(小山力也)_秋山駿(山寺宏一).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ばかみたい （Karaoke）",
+      "artist": "冴島 大河(小山力也)",
+      "has_synced": true,
+      "path": "select/06_ばかみたい_(Karaoke)_冴島_大河(小山力也).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ばかみたい",
+      "artist": "松本千夏",
+      "has_synced": true,
+      "path": "select/07_ばかみたい_松本千夏.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ばかみたい - Full Spec Edition",
+      "artist": "冴島大河(小山力也)",
+      "has_synced": true,
+      "path": "select/08_ばかみたい_-_Full_Spec_Edition_冴島大河(小山力也).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ばかみたい-哀愁-[Full Spec Edition]",
+      "artist": "桐生一馬(黒田崇矢)",
+      "has_synced": false,
+      "path": "select/09_ばかみたい-哀愁-[Full_Spec_Edition]_桐生一馬(黒田崇矢).txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ばかみたい-哀愁-[Full Spec Edition]",
+      "artist": "桐生 一馬(黒田 崇矢)",
+      "has_synced": true,
+      "path": "select/10_ばかみたい-哀愁-[Full_Spec_Edition]_桐生_一馬(黒田_崇矢).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ばかみたい ~feat.冴島&秋山~",
+      "artist": "冴島大河(小山力也)/秋山駿(山寺宏一)",
+      "has_synced": true,
+      "path": "select/11_ばかみたい_~feat.冴島&秋山~_冴島大河(小山力也)_秋山駿(山寺宏一).lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ばかみたい - Taxi Driver Edition",
+      "artist": "桐生一馬(黒田崇矢)",
+      "has_synced": true,
+      "path": "select/12_ばかみたい_-_Taxi_Driver_Edition_桐生一馬(黒田崇矢).lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ばかみたい -哀愁- 【Full Spec Edition】",
+      "artist": "桐生一馬 (黒田崇矢)",
+      "has_synced": true,
+      "path": "select/13_ばかみたい_-哀愁-_【Full_Spec_Edition】_桐生一馬_(黒田崇矢).lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ばかみたい【Full Spec Edition】",
+      "artist": "冴島大河(小山力也)",
+      "has_synced": true,
+      "path": "select/14_ばかみたい【Full_Spec_Edition】_冴島大河(小山力也).lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "龍が如く5 夢、叶えし者（ばかみたい [Taxi Driver Edition]/ 桐生一馬 [黒田崇矢]）｜PS3",
+      "artist": "福山光晴",
+      "has_synced": true,
+      "path": "select/15_龍が如く5_夢、叶えし者(ばかみたい_[Taxi_Driver_Edition]__桐生一馬_[黒田崇矢])_PS3_福山光晴.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ばかみたい-哀愁‐【Full Spec Edition】",
+      "artist": "桐生一馬 (黒田崇矢)",
+      "has_synced": true,
+      "path": "select/16_ばかみたい-哀愁‐【Full_Spec_Edition】_桐生一馬_(黒田崇矢).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ばかみたい (AKKO Special Edition) [Inst]",
+      "artist": "アッコさん(和田アキ子), SEGA GAME MUSIC & SEGA SOUND TEAM",
+      "has_synced": false,
+      "path": "select/pl_01_ばかみたい_(AKKO_Special_Edition)_[Inst]_アッコさん(和田アキ子),_SEGA_GAME_MUSIC_&_SEGA_SOUND_TEAM.txt"
+    }
+  ]
+}
